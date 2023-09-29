@@ -8,3 +8,5 @@ A college assignment for Database Management course, an rigorous practice for CR
   <li>SQLite</li>
   <li>DB Browser</li>
 </ul>
+
+## What was Learned/Practiced
