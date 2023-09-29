@@ -1,2 +1,2 @@
 # The-CRUD-Library
-A web-based movie library with database architecture, You can add, remove, modify and get using the SQL_Alchemy library.
+A college assignment for Database management course, an rigorous practice for CRUD operations using SQL_Alchemy and SQLite.
